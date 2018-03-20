@@ -3,7 +3,9 @@
 Para cálculos de predicción de valores para un período (t).
 Se asume que los valores de los periodos anteriores son conocidos.
 
-Completamente funcional. Creado en mis años de Universidad (2015) con los conocimientos de python de ese entonces. 
+![alt text](http://www.monografias.com/trabajos82/regresion-y-correlacion-lineal/image018.png)
+
+Algoritmo completamente funcional. Creado en mis años de Universidad (2015) con los conocimientos de python de ese entonces. 
 Hoy muy útil para primeros acercamientos con Inteligencia Artificial.
 
 by Jarascript 2015
